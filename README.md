@@ -123,13 +123,13 @@ var cookieIO = CookieIO.getInstance({
 });
 
 var regularCookies = cookieIO.getInstance({
-    names: ["_reg_a", "reg_b"],
+    names: ["_reg_a", "_reg_b"],
     vEncoder: cookieIO.base64Encoder,
     vDecoder: cookieIO.base64Decoder,
     locLimit: 48,
 });
 regularCookies.saveObject({
-    "_reg_a": "abcdefghijabcdefghi",
+    "_reg_a": "abcdefghijab",
     "_reg_b": "abcdefghi",
 });
 
