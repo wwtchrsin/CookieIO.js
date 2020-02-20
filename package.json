@@ -1,6 +1,6 @@
 {
   "name": "cookieio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Using JavaScript objects as an interface for working with cookies in the browser",
   "main": "cookieio.js",
   "scripts": {
