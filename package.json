@@ -1,0 +1,25 @@
+{
+  "name": "cookieio",
+  "version": "1.0.0",
+  "description": "Using JavaScript objects as an interface for working with cookies in the browser",
+  "main": "cookieio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwtchrsin/CookieIO.js.git"
+  },
+  "keywords": [
+    "cookie",
+    "browser",
+    "objects",
+    "limitations"
+  ],
+  "author": "Vladislav Chursin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wwtchrsin/CookieIO.js/issues"
+  },
+  "homepage": "https://github.com/wwtchrsin/CookieIO.js#readme"
+}
