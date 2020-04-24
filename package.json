@@ -16,10 +16,11 @@
     "objects",
     "limitations"
   ],
-  "author": "Vladislav Chursin",
+  "author": "Vladislav Chursin <wwtchrsin@yandex.ru>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wwtchrsin/CookieIO.js/issues"
   },
-  "homepage": "https://github.com/wwtchrsin/CookieIO.js#readme"
+  "homepage": "https://github.com/wwtchrsin/CookieIO.js#readme",
+  "
 }
